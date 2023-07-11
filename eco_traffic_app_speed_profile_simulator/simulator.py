@@ -1,8 +1,8 @@
-from speed_profile_simulator.path.path_model import PathModel
-from speed_profile_simulator.utils.plots import show_plots
-from speed_profile_simulator.vehicle.movement import VehicleMovement
-from speed_profile_simulator.vehicle.power_energy import PowerEnergyEstimator
-from speed_profile_simulator.vehicle.veh_model import VehModel
+from eco_traffic_app_speed_profile_simulator.path.path_model import PathModel
+from eco_traffic_app_speed_profile_simulator.utils.plots import show_plots
+from eco_traffic_app_speed_profile_simulator.vehicle.movement import VehicleMovement
+from eco_traffic_app_speed_profile_simulator.vehicle.power_energy import PowerEnergyEstimator
+from eco_traffic_app_speed_profile_simulator.vehicle.veh_model import VehModel
 
 if __name__ == "__main__":
     # Initialize vehicle

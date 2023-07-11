@@ -1,8 +1,8 @@
 import numpy as np
 from scipy.interpolate import interp1d
 
-from speed_profile_simulator.static.constants import ENGINE_PERFORMANCE, POWER_PERCENTAGE, DELTA_T
-from speed_profile_simulator.vehicle.movement import VehicleMovement
+from eco_traffic_app_speed_profile_simulator.static.constants import ENGINE_PERFORMANCE, POWER_PERCENTAGE, DELTA_T
+from eco_traffic_app_speed_profile_simulator.vehicle.movement import VehicleMovement
 
 
 class PowerEnergyEstimator:

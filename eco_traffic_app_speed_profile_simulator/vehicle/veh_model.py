@@ -1,4 +1,4 @@
-from speed_profile_simulator.static.constants import GRAVITY, CX, RO, POWER_PERCENTAGE, ENGINE_PERFORMANCE
+from eco_traffic_app_speed_profile_simulator.static.constants import GRAVITY, CX, RO, POWER_PERCENTAGE, ENGINE_PERFORMANCE
 
 
 class VehModel:

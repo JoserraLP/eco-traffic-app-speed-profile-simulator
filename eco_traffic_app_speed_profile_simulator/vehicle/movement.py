@@ -1,8 +1,8 @@
 import numpy as np
 
-from speed_profile_simulator.path.path_model import PathModel
-from speed_profile_simulator.static.constants import DELTA_T
-from speed_profile_simulator.vehicle.veh_model import VehModel
+from eco_traffic_app_speed_profile_simulator.path.path_model import PathModel
+from eco_traffic_app_speed_profile_simulator.static.constants import DELTA_T
+from eco_traffic_app_speed_profile_simulator.vehicle.veh_model import VehModel
 
 
 def calculate_acceleration_factor(speed_t: float, speed_limit: float):
